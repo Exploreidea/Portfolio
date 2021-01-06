@@ -1,0 +1,48 @@
+
+body{
+    margin: 0;
+}
+.portfolio{
+    padding: 50px;
+}
+.imagebox{
+    text-align: center;
+}
+.imagebox h1{
+    font-size: 50px;
+    margin: 0;
+    margin-bottom: 30px;
+}
+
+.imagebox h1 span{
+	color: #ff003b;
+}
+.imagebox h2{
+    margin: 0;
+    font-size: 35px;
+    color: #24445b;
+}
+.imagebox img{
+    width: 500px;
+    box-shadow: 14px 10px 10px 0px #0000004a;
+}
+.about{
+    margin-top: 50px;
+}
+.about h2{
+    margin: 0;
+    font-size: 35px;
+    color: #1a374d;
+}
+.about p{
+    margin: 20px 0;
+    font-size: 22px;
+    line-height: 30px;
+    color: #2d2c2c;
+}
+.about li{
+    font-size: 20px;
+    line-height: 30px;
+    color: #2d2c2c;
+    list-style-type: decimal-leading-zero;
+}
